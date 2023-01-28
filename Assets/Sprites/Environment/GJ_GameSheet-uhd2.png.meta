@@ -1,0 +1,4872 @@
+fileFormatVersion: 2
+guid: 9a04a09d5bf628c45a0dbb1f5684b18f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2972011172791012322
+    second: GJ_GameSheet-uhd2_0
+  - first:
+      213: 1452042550260031234
+    second: GJ_GameSheet-uhd2_1
+  - first:
+      213: -5075064748759395651
+    second: GJ_GameSheet-uhd2_2
+  - first:
+      213: -2582907136070525927
+    second: GJ_GameSheet-uhd2_3
+  - first:
+      213: -3119489533204618520
+    second: GJ_GameSheet-uhd2_4
+  - first:
+      213: 6161056714511026649
+    second: GJ_GameSheet-uhd2_5
+  - first:
+      213: 5240537247673050198
+    second: GJ_GameSheet-uhd2_6
+  - first:
+      213: -7067780649154401597
+    second: GJ_GameSheet-uhd2_7
+  - first:
+      213: 3598640289134328066
+    second: GJ_GameSheet-uhd2_8
+  - first:
+      213: -3920242411059417264
+    second: GJ_GameSheet-uhd2_9
+  - first:
+      213: 879949398543333924
+    second: GJ_GameSheet-uhd2_10
+  - first:
+      213: -7570015189492829742
+    second: GJ_GameSheet-uhd2_11
+  - first:
+      213: 4345527809769763445
+    second: GJ_GameSheet-uhd2_12
+  - first:
+      213: -1988934378600023617
+    second: GJ_GameSheet-uhd2_13
+  - first:
+      213: 9201280784289479910
+    second: GJ_GameSheet-uhd2_14
+  - first:
+      213: 3240556382470834478
+    second: GJ_GameSheet-uhd2_15
+  - first:
+      213: 7508350272165962027
+    second: GJ_GameSheet-uhd2_16
+  - first:
+      213: -3300202044485793154
+    second: GJ_GameSheet-uhd2_17
+  - first:
+      213: -4833434094739687578
+    second: GJ_GameSheet-uhd2_18
+  - first:
+      213: 7869337465858227869
+    second: GJ_GameSheet-uhd2_19
+  - first:
+      213: 2192867004030022903
+    second: GJ_GameSheet-uhd2_20
+  - first:
+      213: -1887455845625196824
+    second: GJ_GameSheet-uhd2_21
+  - first:
+      213: -61585832500442676
+    second: GJ_GameSheet-uhd2_22
+  - first:
+      213: -3378503705930513057
+    second: GJ_GameSheet-uhd2_23
+  - first:
+      213: -9086537401673073218
+    second: GJ_GameSheet-uhd2_24
+  - first:
+      213: -5652122379753650153
+    second: GJ_GameSheet-uhd2_25
+  - first:
+      213: 8930720848990981611
+    second: GJ_GameSheet-uhd2_26
+  - first:
+      213: -310694172786083443
+    second: GJ_GameSheet-uhd2_27
+  - first:
+      213: 6521720956408112974
+    second: GJ_GameSheet-uhd2_28
+  - first:
+      213: 7712920182888160486
+    second: GJ_GameSheet-uhd2_29
+  - first:
+      213: 3770030396634511214
+    second: GJ_GameSheet-uhd2_30
+  - first:
+      213: 7865693542314133928
+    second: GJ_GameSheet-uhd2_31
+  - first:
+      213: 4182072116504404599
+    second: GJ_GameSheet-uhd2_32
+  - first:
+      213: 7068967676273441191
+    second: GJ_GameSheet-uhd2_33
+  - first:
+      213: -8881639060938687350
+    second: GJ_GameSheet-uhd2_34
+  - first:
+      213: -7541788367186939082
+    second: GJ_GameSheet-uhd2_35
+  - first:
+      213: 4256431862712382363
+    second: GJ_GameSheet-uhd2_36
+  - first:
+      213: -3182788839416812811
+    second: GJ_GameSheet-uhd2_37
+  - first:
+      213: 7302976868105558870
+    second: GJ_GameSheet-uhd2_38
+  - first:
+      213: 6342449050135873222
+    second: GJ_GameSheet-uhd2_39
+  - first:
+      213: -6611688647248331396
+    second: GJ_GameSheet-uhd2_40
+  - first:
+      213: -2096411100418396800
+    second: GJ_GameSheet-uhd2_41
+  - first:
+      213: 7518205579628717137
+    second: GJ_GameSheet-uhd2_42
+  - first:
+      213: -7172109444452715434
+    second: GJ_GameSheet-uhd2_43
+  - first:
+      213: 4431277684632481528
+    second: GJ_GameSheet-uhd2_44
+  - first:
+      213: 505460163269597750
+    second: GJ_GameSheet-uhd2_45
+  - first:
+      213: 8929585564314566570
+    second: GJ_GameSheet-uhd2_46
+  - first:
+      213: -2693793432218856353
+    second: GJ_GameSheet-uhd2_47
+  - first:
+      213: 6672573339095061510
+    second: GJ_GameSheet-uhd2_48
+  - first:
+      213: 5174903061377908271
+    second: GJ_GameSheet-uhd2_49
+  - first:
+      213: 7973370595552595597
+    second: GJ_GameSheet-uhd2_50
+  - first:
+      213: -6515362956327221724
+    second: GJ_GameSheet-uhd2_51
+  - first:
+      213: -890993194380708171
+    second: GJ_GameSheet-uhd2_52
+  - first:
+      213: 4985435875522646184
+    second: GJ_GameSheet-uhd2_53
+  - first:
+      213: 3276911911116638492
+    second: GJ_GameSheet-uhd2_54
+  - first:
+      213: 2458081142862042416
+    second: GJ_GameSheet-uhd2_55
+  - first:
+      213: 3866167392054919300
+    second: GJ_GameSheet-uhd2_56
+  - first:
+      213: 5912917284789381116
+    second: GJ_GameSheet-uhd2_57
+  - first:
+      213: 8955110587376642033
+    second: GJ_GameSheet-uhd2_58
+  - first:
+      213: 6067340889065867240
+    second: GJ_GameSheet-uhd2_59
+  - first:
+      213: -6806799381906639853
+    second: GJ_GameSheet-uhd2_60
+  - first:
+      213: 6575708687591144306
+    second: GJ_GameSheet-uhd2_61
+  - first:
+      213: 4492857670993820415
+    second: GJ_GameSheet-uhd2_62
+  - first:
+      213: -1302422648900104712
+    second: GJ_GameSheet-uhd2_63
+  - first:
+      213: -6933681475410766439
+    second: GJ_GameSheet-uhd2_64
+  - first:
+      213: -6337025345188895540
+    second: GJ_GameSheet-uhd2_65
+  - first:
+      213: -8010121157311965535
+    second: GJ_GameSheet-uhd2_66
+  - first:
+      213: -7160415190643173755
+    second: GJ_GameSheet-uhd2_67
+  - first:
+      213: 262965252078362531
+    second: GJ_GameSheet-uhd2_68
+  - first:
+      213: -2179726719195309454
+    second: GJ_GameSheet-uhd2_69
+  - first:
+      213: -6946839555170259584
+    second: GJ_GameSheet-uhd2_70
+  - first:
+      213: 3010739395193677606
+    second: GJ_GameSheet-uhd2_71
+  - first:
+      213: 5440338722398308902
+    second: GJ_GameSheet-uhd2_72
+  - first:
+      213: 9164708013541771648
+    second: GJ_GameSheet-uhd2_73
+  - first:
+      213: -3967511619125925673
+    second: GJ_GameSheet-uhd2_74
+  - first:
+      213: -5105333839447412290
+    second: GJ_GameSheet-uhd2_75
+  - first:
+      213: -7777826354498137983
+    second: GJ_GameSheet-uhd2_76
+  - first:
+      213: -1725583980573144397
+    second: GJ_GameSheet-uhd2_77
+  - first:
+      213: -3250803247565220414
+    second: GJ_GameSheet-uhd2_78
+  - first:
+      213: -2985566432967644071
+    second: GJ_GameSheet-uhd2_79
+  - first:
+      213: 7503815303650700752
+    second: GJ_GameSheet-uhd2_80
+  - first:
+      213: -3542545588636806234
+    second: GJ_GameSheet-uhd2_81
+  - first:
+      213: 6561891960052117866
+    second: GJ_GameSheet-uhd2_82
+  - first:
+      213: -1649995126433293505
+    second: GJ_GameSheet-uhd2_83
+  - first:
+      213: 1951222243083727225
+    second: GJ_GameSheet-uhd2_84
+  - first:
+      213: -4998489495353526696
+    second: GJ_GameSheet-uhd2_85
+  - first:
+      213: -6872312558795939170
+    second: GJ_GameSheet-uhd2_86
+  - first:
+      213: -2910717288982866866
+    second: GJ_GameSheet-uhd2_87
+  - first:
+      213: -8041369853570918153
+    second: GJ_GameSheet-uhd2_88
+  - first:
+      213: 8993805602174790047
+    second: GJ_GameSheet-uhd2_89
+  - first:
+      213: 4813235074398297209
+    second: GJ_GameSheet-uhd2_90
+  - first:
+      213: 7333364633323517949
+    second: GJ_GameSheet-uhd2_91
+  - first:
+      213: -4768257110240000321
+    second: GJ_GameSheet-uhd2_92
+  - first:
+      213: -5514589248859860927
+    second: GJ_GameSheet-uhd2_93
+  - first:
+      213: 7646983909803293880
+    second: GJ_GameSheet-uhd2_94
+  - first:
+      213: -1545737715555508777
+    second: GJ_GameSheet-uhd2_95
+  - first:
+      213: -6452424621066253335
+    second: GJ_GameSheet-uhd2_96
+  - first:
+      213: 539985096552859502
+    second: GJ_GameSheet-uhd2_97
+  - first:
+      213: -5715683930120912682
+    second: GJ_GameSheet-uhd2_98
+  - first:
+      213: -8328194514823779341
+    second: GJ_GameSheet-uhd2_99
+  - first:
+      213: 2134810940581366487
+    second: GJ_GameSheet-uhd2_100
+  - first:
+      213: -2114275025190002449
+    second: GJ_GameSheet-uhd2_101
+  - first:
+      213: -8778803144568207724
+    second: GJ_GameSheet-uhd2_102
+  - first:
+      213: -490083904274166738
+    second: GJ_GameSheet-uhd2_103
+  - first:
+      213: 5039650084171975083
+    second: GJ_GameSheet-uhd2_104
+  - first:
+      213: -3478491598188374550
+    second: GJ_GameSheet-uhd2_105
+  - first:
+      213: 6424549980778098047
+    second: GJ_GameSheet-uhd2_106
+  - first:
+      213: -3016167030947428621
+    second: GJ_GameSheet-uhd2_107
+  - first:
+      213: 2482251336457337595
+    second: GJ_GameSheet-uhd2_108
+  - first:
+      213: 7766184962811544866
+    second: GJ_GameSheet-uhd2_109
+  - first:
+      213: -4413869036151635298
+    second: GJ_GameSheet-uhd2_110
+  - first:
+      213: 7516815815414203587
+    second: GJ_GameSheet-uhd2_111
+  - first:
+      213: -3391349510621274304
+    second: GJ_GameSheet-uhd2_112
+  - first:
+      213: -2781970937737317186
+    second: GJ_GameSheet-uhd2_113
+  - first:
+      213: -9104038566523979122
+    second: GJ_GameSheet-uhd2_114
+  - first:
+      213: -4249862340599537918
+    second: GJ_GameSheet-uhd2_115
+  - first:
+      213: -8537403161110815674
+    second: GJ_GameSheet-uhd2_116
+  - first:
+      213: 1579880429616606126
+    second: GJ_GameSheet-uhd2_117
+  - first:
+      213: 4833681964065948739
+    second: GJ_GameSheet-uhd2_118
+  - first:
+      213: -295313538391291862
+    second: GJ_GameSheet-uhd2_119
+  - first:
+      213: -1874857286819882626
+    second: GJ_GameSheet-uhd2_120
+  - first:
+      213: 3177842026214078292
+    second: GJ_GameSheet-uhd2_121
+  - first:
+      213: 7586391656472155318
+    second: GJ_GameSheet-uhd2_122
+  - first:
+      213: -5299371429844694815
+    second: GJ_GameSheet-uhd2_123
+  - first:
+      213: 663577313128448391
+    second: GJ_GameSheet-uhd2_124
+  - first:
+      213: -8898898571688264038
+    second: GJ_GameSheet-uhd2_125
+  - first:
+      213: 2412299711798849292
+    second: GJ_GameSheet-uhd2_126
+  - first:
+      213: -4492965129226467823
+    second: GJ_GameSheet-uhd2_127
+  - first:
+      213: -1437653707924395688
+    second: GJ_GameSheet-uhd2_128
+  - first:
+      213: 3895636655241416835
+    second: GJ_GameSheet-uhd2_129
+  - first:
+      213: 6901746698384181523
+    second: GJ_GameSheet-uhd2_130
+  - first:
+      213: -4330930139764036778
+    second: GJ_GameSheet-uhd2_131
+  - first:
+      213: -110313537353123502
+    second: GJ_GameSheet-uhd2_132
+  - first:
+      213: 986494332438254513
+    second: GJ_GameSheet-uhd2_133
+  - first:
+      213: 4148723099531761349
+    second: GJ_GameSheet-uhd2_134
+  - first:
+      213: 621554630329294403
+    second: GJ_GameSheet-uhd2_135
+  - first:
+      213: -3622940735338951280
+    second: GJ_GameSheet-uhd2_136
+  - first:
+      213: -8000196557053297767
+    second: GJ_GameSheet-uhd2_137
+  - first:
+      213: -4813941720643372523
+    second: GJ_GameSheet-uhd2_138
+  - first:
+      213: 1679357760084155627
+    second: GJ_GameSheet-uhd2_139
+  - first:
+      213: -1847362008875594191
+    second: GJ_GameSheet-uhd2_140
+  - first:
+      213: -7211048053655125991
+    second: GJ_GameSheet-uhd2_141
+  - first:
+      213: 8367418786146683320
+    second: GJ_GameSheet-uhd2_142
+  - first:
+      213: 290148759551954857
+    second: GJ_GameSheet-uhd2_143
+  - first:
+      213: 7188489758921983790
+    second: GJ_GameSheet-uhd2_144
+  - first:
+      213: -2187740523871503497
+    second: GJ_GameSheet-uhd2_145
+  - first:
+      213: 6204920366365678413
+    second: GJ_GameSheet-uhd2_146
+  - first:
+      213: -4480994829873755881
+    second: GJ_GameSheet-uhd2_147
+  - first:
+      213: -7456336950957804382
+    second: GJ_GameSheet-uhd2_148
+  - first:
+      213: 7203126123693533707
+    second: GJ_GameSheet-uhd2_149
+  - first:
+      213: 7649986327047665919
+    second: GJ_GameSheet-uhd2_150
+  - first:
+      213: -2364180222784297449
+    second: GJ_GameSheet-uhd2_151
+  - first:
+      213: 3156602516131246164
+    second: GJ_GameSheet-uhd2_152
+  - first:
+      213: -6778257274798936664
+    second: GJ_GameSheet-uhd2_153
+  - first:
+      213: -2228399434481518389
+    second: GJ_GameSheet-uhd2_154
+  - first:
+      213: -4351813761432835729
+    second: GJ_GameSheet-uhd2_155
+  - first:
+      213: -2745600249722766505
+    second: GJ_GameSheet-uhd2_156
+  - first:
+      213: -6470381797281722214
+    second: GJ_GameSheet-uhd2_157
+  - first:
+      213: 761324811026804867
+    second: GJ_GameSheet-uhd2_158
+  - first:
+      213: -3253111524509928271
+    second: GJ_GameSheet-uhd2_159
+  - first:
+      213: 9062778919910256613
+    second: GJ_GameSheet-uhd2_160
+  - first:
+      213: -1227268104115382868
+    second: GJ_GameSheet-uhd2_161
+  - first:
+      213: -2352631722403760115
+    second: GJ_GameSheet-uhd2_162
+  - first:
+      213: -1209770121169220600
+    second: GJ_GameSheet-uhd2_163
+  - first:
+      213: 5315305305506319729
+    second: GJ_GameSheet-uhd2_164
+  - first:
+      213: 8957995191823811436
+    second: GJ_GameSheet-uhd2_165
+  - first:
+      213: 5308794557874050489
+    second: GJ_GameSheet-uhd2_166
+  - first:
+      213: -5325223200349613112
+    second: GJ_GameSheet-uhd2_167
+  - first:
+      213: -3150996514681552093
+    second: GJ_GameSheet-uhd2_168
+  - first:
+      213: -3236046516514725087
+    second: GJ_GameSheet-uhd2_169
+  - first:
+      213: 6146924521371747713
+    second: GJ_GameSheet-uhd2_170
+  - first:
+      213: -6587396410191721593
+    second: GJ_GameSheet-uhd2_171
+  - first:
+      213: 6847563444977924478
+    second: GJ_GameSheet-uhd2_172
+  - first:
+      213: -6806697895288725592
+    second: GJ_GameSheet-uhd2_173
+  - first:
+      213: 9129080919750452915
+    second: GJ_GameSheet-uhd2_174
+  - first:
+      213: -6476961089926274468
+    second: GJ_GameSheet-uhd2_175
+  - first:
+      213: 5108388964297974027
+    second: GJ_GameSheet-uhd2_176
+  - first:
+      213: -8824424997163706329
+    second: GJ_GameSheet-uhd2_177
+  - first:
+      213: -703678666801850201
+    second: GJ_GameSheet-uhd2_178
+  - first:
+      213: 7369864905152012184
+    second: GJ_GameSheet-uhd2_179
+  - first:
+      213: -4676092518800221471
+    second: GJ_GameSheet-uhd2_180
+  - first:
+      213: 2665309494027139521
+    second: GJ_GameSheet-uhd2_181
+  - first:
+      213: -1514062716783686543
+    second: GJ_GameSheet-uhd2_182
+  - first:
+      213: 7635820715868988241
+    second: GJ_GameSheet-uhd2_183
+  - first:
+      213: 2000815653481259715
+    second: GJ_GameSheet-uhd2_184
+  - first:
+      213: 5126211722408414611
+    second: GJ_GameSheet-uhd2_185
+  - first:
+      213: 2813915448641057306
+    second: GJ_GameSheet-uhd2_186
+  - first:
+      213: 5455448427057248397
+    second: GJ_GameSheet-uhd2_187
+  - first:
+      213: -7993196490396724573
+    second: GJ_GameSheet-uhd2_188
+  - first:
+      213: -7020181443975029093
+    second: GJ_GameSheet-uhd2_189
+  - first:
+      213: 5983277805831712268
+    second: GJ_GameSheet-uhd2_190
+  - first:
+      213: -1703469229180139818
+    second: GJ_GameSheet-uhd2_191
+  - first:
+      213: 6595021912284309901
+    second: GJ_GameSheet-uhd2_192
+  - first:
+      213: -5005459118449657363
+    second: GJ_GameSheet-uhd2_193
+  - first:
+      213: -4041853121794820123
+    second: GJ_GameSheet-uhd2_194
+  - first:
+      213: 1174987279788083908
+    second: GJ_GameSheet-uhd2_195
+  - first:
+      213: 1282038215201418261
+    second: GJ_GameSheet-uhd2_196
+  - first:
+      213: -7103365248739326012
+    second: GJ_GameSheet-uhd2_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb43be4a64be3920800000000000000
+      internalID: 2972011172791012322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f50079101b62410800000000000000
+      internalID: 1452042550260031234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d616ff7fb199b0800000000000000
+      internalID: -5075064748759395651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd1b205aba72cd0800000000000000
+      internalID: -2582907136070525927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22acc1cc855b4d0800000000000000
+      internalID: -3119489533204618520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9077d6078708550800000000000000
+      internalID: 6161056714511026649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65461c77cd02ab840800000000000000
+      internalID: 5240537247673050198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa5c042f23aed90800000000000000
+      internalID: -7067780649154401597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209b24cc640f0f130800000000000000
+      internalID: 3598640289134328066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe1672c408899c0800000000000000
+      internalID: -3920242411059417264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7e78d055363c00800000000000000
+      internalID: 879949398543333924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f7f5fa47e1f690800000000000000
+      internalID: -7570015189492829742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57278e6f48a6e4c30800000000000000
+      internalID: 4345527809769763445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_13
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bbf178b2e564e0800000000000000
+      internalID: -1988934378600023617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb3327f1481bf70800000000000000
+      internalID: 9201280784289479910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298cc35cd4c8fc20800000000000000
+      internalID: 3240556382470834478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_16
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e8a5aac4033860800000000000000
+      internalID: 7508350272165962027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_17
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1334
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a086bc9b35332d0800000000000000
+      internalID: -3300202044485793154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66777c9ac413cecb0800000000000000
+      internalID: -4833434094739687578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef62e4bb0853d60800000000000000
+      internalID: 7869337465858227869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f472eefbe0ae6e10800000000000000
+      internalID: 2192867004030022903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee864898e86ec5e0800000000000000
+      internalID: -1887455845625196824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc94d9af204352ff0800000000000000
+      internalID: -61585832500442676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55cbaf87c42d11d0800000000000000
+      internalID: -3378503705930513057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdb9fe206226e180800000000000000
+      internalID: -9086537401673073218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_25
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188fbf44a0af81b0800000000000000
+      internalID: -5652122379753650153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_26
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed48409b4b40fb70800000000000000
+      internalID: 8930720848990981611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d893d45cb4130bbf0800000000000000
+      internalID: -310694172786083443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_28
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472de208aec18a50800000000000000
+      internalID: 6521720956408112974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_29
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5df1aa0cc90b60800000000000000
+      internalID: 7712920182888160486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_30
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6733d7dba6d15430800000000000000
+      internalID: 3770030396634511214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_31
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9c7bd3a9e882d60800000000000000
+      internalID: 7865693542314133928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_32
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772af41be64b90a30800000000000000
+      internalID: 4182072116504404599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_33
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a93ff806a40a1260800000000000000
+      internalID: 7068967676273441191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_34
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf38db4541eb480800000000000000
+      internalID: -8881639060938687350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_35
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1212
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63336aa207f265790800000000000000
+      internalID: -7541788367186939082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9330a34a32e11b30800000000000000
+      internalID: 4256431862712382363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faab77e96674d3d0800000000000000
+      internalID: -3182788839416812811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b935ac4c2695560800000000000000
+      internalID: 7302976868105558870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6cc5faec7e40850800000000000000
+      internalID: 6342449050135873222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7db74f94309e34a0800000000000000
+      internalID: -6611688647248331396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d2060263d08e2e0800000000000000
+      internalID: -2096411100418396800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154212a3428065860800000000000000
+      internalID: 7518205579628717137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654fb21b57c877c90800000000000000
+      internalID: -7172109444452715434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe62a5839f0f7d30800000000000000
+      internalID: 4431277684632481528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_45
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9bc72751c30700800000000000000
+      internalID: 505460163269597750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_46
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaffc6082c24ceb70800000000000000
+      internalID: 8929585564314566570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_47
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54905e4529bd9ad0800000000000000
+      internalID: -2693793432218856353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_48
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d08e591eb99c50800000000000000
+      internalID: 6672573339095061510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_49
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef280aae2f0d740800000000000000
+      internalID: 5174903061377908271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_50
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e057adf4a17ae60800000000000000
+      internalID: 7973370595552595597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_51
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426806d39e7c495a0800000000000000
+      internalID: -6515362956327221724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_52
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b5af096e82a3f0800000000000000
+      internalID: -890993194380708171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_53
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0140bc383df2540800000000000000
+      internalID: 4985435875522646184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c198a56750ee97d20800000000000000
+      internalID: 3276911911116638492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d065a6cbdc1220800000000000000
+      internalID: 2458081142862042416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c1ad52c267a530800000000000000
+      internalID: 3866167392054919300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7632a41f6ee0250800000000000000
+      internalID: 5912917284789381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7acec02a1f64c70800000000000000
+      internalID: 8955110587376642033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_59
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e749f77466833450800000000000000
+      internalID: 6067340889065867240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_60
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143b10b6046981a0800000000000000
+      internalID: -6806799381906639853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_61
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf156363c914b50800000000000000
+      internalID: 6575708687591144306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_62
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab9f16f36d95e30800000000000000
+      internalID: 4492857670993820415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_63
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc2e8508ddcede0800000000000000
+      internalID: -1302422648900104712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_64
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955f603f6d96cf90800000000000000
+      internalID: -6933681475410766439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_65
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc46e57060d5e08a0800000000000000
+      internalID: -6337025345188895540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_66
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a654923f3556d090800000000000000
+      internalID: -8010121157311965535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_67
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5861765525811ac90800000000000000
+      internalID: -7160415190643173755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_68
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd666e08d36a300800000000000000
+      internalID: 262965252078362531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_69
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9feaf81e00c1e0800000000000000
+      internalID: -2179726719195309454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_70
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da1720b3ed79f90800000000000000
+      internalID: -6946839555170259584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_71
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 968
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272bc1478b48c920800000000000000
+      internalID: 3010739395193677606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8a5e6e37ff7b40800000000000000
+      internalID: 5440338722398308902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894551b1659f2f70800000000000000
+      internalID: 9164708013541771648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a3c3043190f8c0800000000000000
+      internalID: -3967511619125925673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_75
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b4f71ce53629b0800000000000000
+      internalID: -5105333839447412290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_76
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1809777a32c9f0490800000000000000
+      internalID: -7777826354498137983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_77
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba45df138e7d08e0800000000000000
+      internalID: -1725583980573144397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_78
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5503a7ba3d2e2d0800000000000000
+      internalID: -3250803247565220414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_79
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c22adb5232196d0800000000000000
+      internalID: -2985566432967644071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_80
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd6d320348e22860800000000000000
+      internalID: 7503815303650700752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_81
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a31dac6e8956dec0800000000000000
+      internalID: -3542545588636806234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_82
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61f565a8f5801b50800000000000000
+      internalID: 6561891960052117866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_83
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b51dfac2a0a19e0800000000000000
+      internalID: -1649995126433293505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_84
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971b8d4ca42241b10800000000000000
+      internalID: 1951222243083727225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_85
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567eef794cc1aab0800000000000000
+      internalID: -4998489495353526696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_86
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92238b8324a0a0a0800000000000000
+      internalID: -6872312558795939170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_87
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44969c1c0e0b97d0800000000000000
+      internalID: -2910717288982866866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_88
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8de5229b0576090800000000000000
+      internalID: -8041369853570918153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_89
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 846
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99eb804b8a60dc70800000000000000
+      internalID: 8993805602174790047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c16fd6ccb0cc240800000000000000
+      internalID: 4813235074398297209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df739a9b74855c560800000000000000
+      internalID: 7333364633323517949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_92
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60a6aeb6fb3ddb0800000000000000
+      internalID: -4768257110240000321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_93
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1401583bb4e3873b0800000000000000
+      internalID: -5514589248859860927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_94
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf3fab95b8f1a60800000000000000
+      internalID: 7646983909803293880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_95
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd364ccbf6c8ae0800000000000000
+      internalID: -1545737715555508777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_96
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb8c595ef16476a0800000000000000
+      internalID: -6452424621066253335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_97
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c90895996e7700800000000000000
+      internalID: 539985096552859502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_98
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00cb0afbfcda0b0800000000000000
+      internalID: -5715683930120912682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_99
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6293a63f4c6c80800000000000000
+      internalID: -8328194514823779341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_100
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da48ff5d3f50ad10800000000000000
+      internalID: 2134810940581366487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_101
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e116011698a2e0800000000000000
+      internalID: -2114275025190002449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_102
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4960ee65d0d6b2680800000000000000
+      internalID: -8778803144568207724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_103
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0a9f194fd239f0800000000000000
+      internalID: -490083904274166738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_104
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98653ec0f60f540800000000000000
+      internalID: 5039650084171975083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_105
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51dcf325ae9bfc0800000000000000
+      internalID: -3478491598188374550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_106
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d65063b26982950800000000000000
+      internalID: 6424549980778098047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_107
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 724
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64221d01c6426d0800000000000000
+      internalID: -3016167030947428621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa37c0607ab27220800000000000000
+      internalID: 2482251336457337595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_109
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225cc50a31807cb60800000000000000
+      internalID: 7766184962811544866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_110
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92061f4f79ceb2c0800000000000000
+      internalID: -4413869036151635298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_111
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c44dc78828115860800000000000000
+      internalID: 7516815815414203587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_112
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f593696918fe0d0800000000000000
+      internalID: -3391349510621274304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_113
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f4b0fb247469d0800000000000000
+      internalID: -2781970937737317186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_114
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab1e4b825f7a180800000000000000
+      internalID: -9104038566523979122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_115
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f114cc7b47505c0800000000000000
+      internalID: -4249862340599537918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_116
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c51bdde0d058980800000000000000
+      internalID: -8537403161110815674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_117
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba3e251ecdce510800000000000000
+      internalID: 1579880429616606126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_118
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3440d59e220b41340800000000000000
+      internalID: 4833681964065948739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_119
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c2d6c6e5d6ebf0800000000000000
+      internalID: -295313538391291862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_120
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795c862b3b2bf5e0800000000000000
+      internalID: -1874857286819882626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_121
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573cc46c76f91c20800000000000000
+      internalID: 3177842026214078292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_122
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b492036407484960800000000000000
+      internalID: 7586391656472155318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_123
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c04703c9d476b0800000000000000
+      internalID: -5299371429844694815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_124
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781870eec00853900800000000000000
+      internalID: 663577313128448391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_125
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 602
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e3a4eb5e2c08480800000000000000
+      internalID: -8898898571688264038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2c859ec53a7120800000000000000
+      internalID: 2412299711798849292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_127
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164d3c0508c5a1c0800000000000000
+      internalID: -4492965129226467823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_128
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a425d19d6c0ce0800000000000000
+      internalID: -1437653707924395688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_129
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d7a1e5e4101630800000000000000
+      internalID: 3895636655241416835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_130
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3190aee1e0ee7cf50800000000000000
+      internalID: 6901746698384181523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_131
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be450fbf175e3c0800000000000000
+      internalID: -4330930139764036778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_132
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25976281c66187ef0800000000000000
+      internalID: -110313537353123502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_133
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31be16e5bb0bd00800000000000000
+      internalID: 986494332438254513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_134
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65c0b9da9339930800000000000000
+      internalID: 4148723099531761349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_135
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed645a4a430a800800000000000000
+      internalID: 621554630329294403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_136
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d44dba89ab8bdc0800000000000000
+      internalID: -3622940735338951280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_137
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf8834e9799f090800000000000000
+      internalID: -8000196557053297767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_138
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7e9ba281713db0800000000000000
+      internalID: -4813941720643372523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_139
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9c943cf64e4710800000000000000
+      internalID: 1679357760084155627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_140
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e0b696a0adc56e0800000000000000
+      internalID: -1847362008875594191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_141
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104d9f30063deb90800000000000000
+      internalID: -7211048053655125991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_142
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b90433bd0b0f1470800000000000000
+      internalID: 8367418786146683320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_143
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 480
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4d1172c0d60400800000000000000
+      internalID: 290148759551954857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2704187955a2c360800000000000000
+      internalID: 7188489758921983790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_145
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b79eda59593a1e0800000000000000
+      internalID: -2187740523871503497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_146
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b10d8b23e4c1650800000000000000
+      internalID: 6204920366365678413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_147
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719430d81fe40d1c0800000000000000
+      internalID: -4480994829873755881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_148
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47a886c05c58890800000000000000
+      internalID: -7456336950957804382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_149
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae613bb05a6f360800000000000000
+      internalID: 7203126123693533707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_150
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8754878063a2a60800000000000000
+      internalID: 7649986327047665919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_151
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71620f30d9eb03fd0800000000000000
+      internalID: -2364180222784297449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_152
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 343
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507b1793418ecb20800000000000000
+      internalID: 3156602516131246164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_153
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ade66bdbeacee1a0800000000000000
+      internalID: -6778257274798936664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_154
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83c0a55822311e0800000000000000
+      internalID: -2228399434481518389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_155
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a32dd0704b93c0800000000000000
+      internalID: -4351813761432835729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_156
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bfc04ae1ba5e9d0800000000000000
+      internalID: -2745600249722766505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_157
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909ed379069436a0800000000000000
+      internalID: -6470381797281722214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_158
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b1f7c1e4c09a00800000000000000
+      internalID: 761324811026804867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_159
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b43bdedd40aad2d0800000000000000
+      internalID: -3253111524509928271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_160
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef2627396575cd70800000000000000
+      internalID: 9062778919910256613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_161
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 358
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51902692ed7fee0800000000000000
+      internalID: -1227268104115382868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08fecac9e5c95fd0800000000000000
+      internalID: -2352631722403760115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_163
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc3d30c78063fe0800000000000000
+      internalID: -1209770121169220600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_164
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d047f7302c3c940800000000000000
+      internalID: 5315305305506319729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_165
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c05c5a21315c70800000000000000
+      internalID: 8957995191823811436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_166
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51c9fe580aca940800000000000000
+      internalID: 5308794557874050489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_167
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31e79a6b10916b0800000000000000
+      internalID: -5325223200349613112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_168
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32389e55d596544d0800000000000000
+      internalID: -3150996514681552093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_169
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ef7aa6d04713d0800000000000000
+      internalID: -3236046516514725087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_170
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185408dc8434e4550800000000000000
+      internalID: 6146924521371747713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_171
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 236
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc6dfcdddd494a0800000000000000
+      internalID: -6587396410191721593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_172
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79fbda5cae670f50800000000000000
+      internalID: 6847563444977924478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_173
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af9ae1e350c981a0800000000000000
+      internalID: -6806697895288725592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_174
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a5838ab201be70800000000000000
+      internalID: 9129080919750452915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_175
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52eae284363d16a0800000000000000
+      internalID: -6476961089926274468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_176
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01a18792b4a4e640800000000000000
+      internalID: 5108388964297974027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_177
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728daf80838598580800000000000000
+      internalID: -8824424997163706329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_178
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a851451bf70c36f0800000000000000
+      internalID: -703678666801850201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_179
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 236
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f14328515074660800000000000000
+      internalID: 7369864905152012184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea1d0011ae2b1fb0800000000000000
+      internalID: -4676092518800221471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_181
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b6f70dd41df420800000000000000
+      internalID: 2665309494027139521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_182
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c027e1bf7fcfae0800000000000000
+      internalID: -1514062716783686543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_183
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153a0f91c72e7f960800000000000000
+      internalID: 7635820715868988241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_184
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2aace6c3354cb10800000000000000
+      internalID: 2000815653481259715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_185
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc895d666f32740800000000000000
+      internalID: 5126211722408414611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_186
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12fb3811390d0720800000000000000
+      internalID: 2813915448641057306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_187
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f531b075a5bb40800000000000000
+      internalID: 5455448427057248397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_188
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2110a4426721190800000000000000
+      internalID: -7993196490396724573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_189
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 118
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5415db2e439e90800000000000000
+      internalID: -7020181443975029093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_190
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 114
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee311b67fd80350800000000000000
+      internalID: 5983277805831712268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_191
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c8ece2cf0c58e0800000000000000
+      internalID: -1703469229180139818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_192
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89af9fbc79368b50800000000000000
+      internalID: 6595021912284309901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_193
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9711ba379098ab0800000000000000
+      internalID: -5005459118449657363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_194
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7bd19100478e7c0800000000000000
+      internalID: -4041853121794820123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_195
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0f53a4b46e4010800000000000000
+      internalID: 1174987279788083908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_196
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c6e85d6f6bac110800000000000000
+      internalID: 1282038215201418261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ_GameSheet-uhd2_197
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 114
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c90701f6cb6d90800000000000000
+      internalID: -7103365248739326012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
